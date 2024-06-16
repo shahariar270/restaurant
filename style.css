@@ -1,0 +1,203 @@
+body{
+    margin: auto;
+
+}
+.header{
+    display:flex;
+    width: 100%;
+    background-color: rgba(238, 107, 107, 0.986);
+    display: block;
+    height: 86px;
+
+}
+.logo{
+    margin: auto;
+    text-align: center;
+    color: white;
+    background-color: black;
+    
+}
+.navbar ul li{
+    display: inline;
+    list-style: none;
+    
+}
+.navbar{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navbar ul li a{
+   padding: 10px;
+   text-decoration: none;  
+   color: white; 
+   text-transform: uppercase;
+}
+.navbar ul li a:hover{
+    color: blue;
+    background-color: rgb(168, 204, 113);
+    transition: 0.4s;
+}
+.frist{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+width: 100%;    
+background-color: rgb(248, 236, 236);
+}
+.frist img{
+    width: 50%;
+    height: 300px;
+}
+.mid{
+    
+    width: 80%;
+    margin: auto;
+   
+   
+}
+.sannyleone{
+    
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    border: 2px solid #ece8e0;
+}
+.mia{
+    display: flex;
+    margin: auto;
+
+}
+.mia1{
+    padding: 40px;
+
+}
+.mia2{
+    padding: 40px;
+    
+}
+.mia3{
+    padding: 40px;
+    
+}
+.khlifa{
+    background-color: rgb(255,245,203);
+    width: 100%;
+    margin: auto;
+    height: 140px;
+
+}
+.khlifa2{
+margin: auto;
+width: 50%;
+}
+.khlifa2 h2{
+    color: #b4966b;
+    text-align: center;
+}
+.khlifa2 p{
+    color: black;
+
+}
+.denny{
+    width: 80%;
+    margin: auto;
+     display: flex;
+}
+.denny1{
+    border: 1px double rgb(145, 137, 107);
+    width: 32%;
+    padding: 20px;
+   
+}
+.denny1 h2{
+    text-align: center;
+}
+.denny1 a{
+    color:#b4966b;
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+}
+.denny1 a:hover{
+    color: black;
+    text-decoration: dotted;
+}
+.denny1 p{
+    text-align: center;
+}
+.denny2{
+    border: 1px solid #b4966b;
+    padding: 20px;
+    width: 32%;
+}
+.denny2 h2{
+    text-align: center;
+}
+.denny2 a{
+    color:#b4966b;
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+    display: block;
+    padding: 10px;
+    border-top: 1px solid #b4966b; 
+}
+.denny3{
+    text-align: center;
+    border:1px solid #b4966b ;
+   
+}
+.denny3 form {
+    display: flex;
+}
+.btn button{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #32373c;
+    color: #fff;
+}
+.btn button:hover{
+    color:#32373c;
+    background-color: #fff ;
+    transition: 02s;
+
+}
+.footer{
+    position: relative;
+}
+.footer img{
+    width: 100%;
+    height: 150px;
+}
+.footer .textover{
+    position: absolute;
+    color: #32373c;
+    top: 10px;
+    width: 100%;
+   
+}
+.text-style {
+    width: 21%;
+    margin: auto;   
+   
+    
+}
+.text-style h3{
+   text-align: center;
+   color: #b4966b; 
+}
+
+.text-style p{
+    color: papayawhip; 
+    font-size: 15px;
+}
+.low {
+    width: 100%;
+    background-color: #32373c;
+}
+.low h4{
+    margin: auto;
+    text-align: center;
+    color: #ece8e0;
+}
